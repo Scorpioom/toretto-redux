@@ -104,6 +104,18 @@
        "sha256": "9b2ec202267c32d14c7e5ac58e1e9331149967c4dd3ebd62b4f115532fe6dcff"
       }
      ]
+    },
+    "gun_themes": {
+     "version": 1,
+     "size": 12877824,
+     "sha256": "64194fe6d3c859f3aec05968c74cd3e388280210cbf27db2d690329b0d1ca495",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-2221/enhanced-gun_themes.rpf",
+       "size": 12877824,
+       "sha256": "64194fe6d3c859f3aec05968c74cd3e388280210cbf27db2d690329b0d1ca495"
+      }
+     ]
     }
    },
    "packs": {
@@ -252,6 +264,18 @@
        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/legacy-weapon_sounds.rpf",
        "size": 22273536,
        "sha256": "9b2ec202267c32d14c7e5ac58e1e9331149967c4dd3ebd62b4f115532fe6dcff"
+      }
+     ]
+    },
+    "gun_themes": {
+     "version": 1,
+     "size": 12882432,
+     "sha256": "523f502761beff655f4796ce8b721e96c3942a08e0e900617226e6a7ad5c6ef8",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-2221/legacy-gun_themes.rpf",
+       "size": 12882432,
+       "sha256": "523f502761beff655f4796ce8b721e96c3942a08e0e900617226e6a7ad5c6ef8"
       }
      ]
     }
