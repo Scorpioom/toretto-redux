@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.12",
-  "notes": "**Toretto Redux 1.0.12**\n\n- Новий стиль смуг за замовчуванням «Хвілі»: власна анімація хвиль замість переливу з редуксу / новый стиль «Волны» вместо перелива редукса.\n- Стиль «Кастом» прибрано / стиль «Кастом» убран.\n",
-  "size": 127470148,
-  "sha256": "6edfc1700bd4b0735720d0d550751f0414dbf980fa6ada4d75e6565e2bc96218",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.12/Toretto-Redux-Setup.exe"
+  "version": "1.0.13",
+  "notes": "**Toretto Redux 1.0.13**\n\n- Власний ганпак «Чорний + золото» (прототип): Heavy Sniper, Special Carbine Mk2, Musket — матовий чорний, золота окантовка, логотип TORETTO / собственный ганпак «Чёрный + золото» (прототип).\n",
+  "size": 127464249,
+  "sha256": "65ade0593d6decd9b09cbb8601ca0833b15a274aa0253d589b8860fafe5b89f1",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.13/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
