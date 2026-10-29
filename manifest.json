@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.9",
-  "notes": "**Toretto Redux 1.0.9**\n\n- Трасер Heavy Sniper знову видно (ефект малювався в іншому шарі) / трассер Heavy Sniper снова виден.\n- Кольорові трасери насиченіші, не йдуть у білий / цветные трассеры насыщеннее, не уходят в белый.\n- Стиль смуг «Ключі» перейменовано на «Кастом» / стиль «Ключи» переименован в «Кастом».\n",
-  "size": 127620697,
-  "sha256": "6d26b4344e520a819dd2b71b5fd9137205d568b94b6e0af602690ab45c187006",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.9/Toretto-Redux-Setup.exe"
+  "version": "1.0.10",
+  "notes": "**Toretto Redux 1.0.10**\n\n- Спокійніші другорядні кнопки: при наведенні лише трохи світлішають, без заливки кольором і обертання значка / более спокойные второстепенные кнопки.\n",
+  "size": 127666098,
+  "sha256": "b196bc4114a840357e4fbbfa0a9fa0fce01dd9b9ba3d5c7aaa48908eba2f6c59",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.10/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
