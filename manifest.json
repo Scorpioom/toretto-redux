@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.10",
-  "notes": "**Toretto Redux 1.0.10**\n\n- Спокійніші другорядні кнопки: при наведенні лише трохи світлішають, без заливки кольором і обертання значка / более спокойные второстепенные кнопки.\n",
-  "size": 127666098,
-  "sha256": "b196bc4114a840357e4fbbfa0a9fa0fce01dd9b9ba3d5c7aaa48908eba2f6c59",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.10/Toretto-Redux-Setup.exe"
+  "version": "1.0.11",
+  "notes": "**Toretto Redux 1.0.11**\n\n- Логотип: темний фон усередині емблеми повернено, прибрано лише чорне навколо / логотип: тёмный фон внутри эмблемы возвращён.\n- Спокійніші другорядні кнопки / более спокойные второстепенные кнопки.\n",
+  "size": 127541116,
+  "sha256": "7c9aa81d473a99b692f92fa9319bcb0af75d7f4be14774c7ee2fa5bc00f6d949",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.11/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
