@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.5",
-  "notes": "**Toretto Redux 1.0.5**\n\n- Нові версії програми та редуксу видно одразу після виходу (раніше — через кеш GitHub із затримкою) / новые версии видны сразу после выхода.\n- Стилі смуг здоровʼя та броні видно постійно / стили полос видны постоянно.\n",
-  "size": 127623968,
-  "sha256": "48f37bacb19125031278be956f5ebcf9e94b12191e975a2a93037f0b362dcd23",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.5/Toretto-Redux-Setup.exe"
+  "version": "1.0.6",
+  "notes": "**Toretto Redux 1.0.6**\n\n- Новий стиль «Карбон»: справжнє діагональне плетіння карбону, чітке на маленькій смузі / новый стиль «Карбон»: настоящее диагональное плетение карбона.\n",
+  "size": 127597358,
+  "sha256": "05887e542408b0459d89de18474a4bb8dda0bb96eeb88bb349d4db54d5b6404b",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.6/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
