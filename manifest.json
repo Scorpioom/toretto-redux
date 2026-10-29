@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.7",
-  "notes": "**Toretto Redux 1.0.7**\n\n- Новий анімований стиль смуг «Ключі»: по смузі літають гайкові ключі (замість «Карбону») / новый анимированный стиль «Ключи».\n",
-  "size": 127621373,
-  "sha256": "7d6ad9f48c2a4b42eca540fc3ebc30daad07eded6d6f6ecd6f5cd897a55f6a29",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.7/Toretto-Redux-Setup.exe"
+  "version": "1.0.8",
+  "notes": "**Toretto Redux 1.0.8**\n\n- Окремий колір трасерів для Heavy Sniper (і Mk2) / отдельный цвет трассеров для Heavy Sniper (и Mk2).\n- Колір трасерів тепер задається напряму в частинці — точніші кольори / цвет трассеров задаётся напрямую в частице — точнее цвета.\n",
+  "size": 127617581,
+  "sha256": "549357bd1275887e1c644821a1ce53f9a1b2fd1e39ea63526734a8c86bfaed37",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.8/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
