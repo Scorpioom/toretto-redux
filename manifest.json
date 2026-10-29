@@ -1,0 +1,255 @@
+{
+ "app": {},
+ "editions": {
+  "enhanced": {
+   "assets": {
+    "autumn": {
+     "version": 1,
+     "size": 143489536,
+     "sha256": "3ff831d5abb7e4a3ca32fbed0dbec27ee335eacb34f17b7f0d741a9b63e68bab",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-autumn.rpf",
+       "size": 143489536,
+       "sha256": "3ff831d5abb7e4a3ca32fbed0dbec27ee335eacb34f17b7f0d741a9b63e68bab"
+      }
+     ]
+    },
+    "map": {
+     "version": 1,
+     "size": 8708608,
+     "sha256": "1c237d568c3d85de65c69f6819f03eb7edbdbef4c1711375ee8a690953eb0693",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-map.rpf",
+       "size": 8708608,
+       "sha256": "1c237d568c3d85de65c69f6819f03eb7edbdbef4c1711375ee8a690953eb0693"
+      }
+     ]
+    },
+    "night": {
+     "version": 1,
+     "size": 189440,
+     "sha256": "a617b47fedabbfa3ee9d0f793e02298c771dbbf64594070bda040aedcf52658e",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-night.rpf",
+       "size": 189440,
+       "sha256": "a617b47fedabbfa3ee9d0f793e02298c771dbbf64594070bda040aedcf52658e"
+      }
+     ]
+    },
+    "radar": {
+     "version": 1,
+     "size": 5598208,
+     "sha256": "ffd78598eef28f85fdfc01bb3628b8849ca8ce788e542552f329542751874023",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-radar.rpf",
+       "size": 5598208,
+       "sha256": "ffd78598eef28f85fdfc01bb3628b8849ca8ce788e542552f329542751874023"
+      }
+     ]
+    },
+    "smoke": {
+     "version": 1,
+     "size": 3584,
+     "sha256": "d55e3dd88bae600cd65e58c5515287ab780875152f5e304839a6f74d934d7105",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-smoke.rpf",
+       "size": 3584,
+       "sha256": "d55e3dd88bae600cd65e58c5515287ab780875152f5e304839a6f74d934d7105"
+      }
+     ]
+    },
+    "tracers": {
+     "version": 1,
+     "size": 138752,
+     "sha256": "03c1b0950aa0d348601aeec5550b07a81b47822e7faf17203811274b5fe90269",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-tracers.rpf",
+       "size": 138752,
+       "sha256": "03c1b0950aa0d348601aeec5550b07a81b47822e7faf17203811274b5fe90269"
+      }
+     ]
+    },
+    "weapon_skins": {
+     "version": 1,
+     "size": 111062016,
+     "sha256": "39427c09e24d66da97789dde639214663fabe2d27c9f3d2c74cb0041e89333ef",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-weapon_skins.rpf",
+       "size": 111062016,
+       "sha256": "39427c09e24d66da97789dde639214663fabe2d27c9f3d2c74cb0041e89333ef"
+      }
+     ]
+    },
+    "weapon_sounds": {
+     "version": 1,
+     "size": 22273536,
+     "sha256": "9b2ec202267c32d14c7e5ac58e1e9331149967c4dd3ebd62b4f115532fe6dcff",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-weapon_sounds.rpf",
+       "size": 22273536,
+       "sha256": "9b2ec202267c32d14c7e5ac58e1e9331149967c4dd3ebd62b4f115532fe6dcff"
+      }
+     ]
+    }
+   },
+   "packs": {
+    "version": 1,
+    "size": 7842680320,
+    "items": {
+     "torettoautumn": {
+      "version": 1,
+      "size": 3887529472,
+      "sha256": "c7069dd36c1e8a353431da298c447034b14115cbac72401ebf2e0cd677689ae0",
+      "parts": [
+       {
+        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-torettoautumn.rpf.001",
+        "size": 1900000000,
+        "sha256": "dfd3e78c9ca072e0924d22c37235d64338ab06c3c8e5d45246aa74aca4e6a83f"
+       },
+       {
+        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-torettoautumn.rpf.002",
+        "size": 1900000000,
+        "sha256": "d10cc179e320a6b9028cd9df38c2307bd28f60ae9e107096c714ac8dc75fde42"
+       },
+       {
+        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-torettoautumn.rpf.003",
+        "size": 87529472,
+        "sha256": "08f51ccb64cae0a7267f3acd72fddfae17f984af7b005e273824d49a72267ca3"
+       }
+      ]
+     },
+     "torettoautumn2": {
+      "version": 1,
+      "size": 3891369472,
+      "sha256": "73871062c3d8aa6d888f19be25557b6a4679addeaac6395eac28ae6361f7fe07",
+      "parts": [
+       {
+        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-torettoautumn2.rpf.001",
+        "size": 1900000000,
+        "sha256": "921fa7046aae93a8f5fec3f4178eef03b1fb41d7f47bdb52fe90759a0a5eb578"
+       },
+       {
+        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-torettoautumn2.rpf.002",
+        "size": 1900000000,
+        "sha256": "2c50e8018a943b00131ef202b9d757a108de654649619bc3f4f4213ad3fd343a"
+       },
+       {
+        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-torettoautumn2.rpf.003",
+        "size": 91369472,
+        "sha256": "c7cf556c71e15f16413f34cfff8f9934959a5321def929f10b5cfe4f1cdd4687"
+       }
+      ]
+     },
+     "torettoautumn3": {
+      "version": 1,
+      "size": 63781376,
+      "sha256": "1bff5e331a31dbda798fe1e93af460f826c399fa97293633a82a01c66b37df35",
+      "parts": [
+       {
+        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-torettoautumn3.rpf",
+        "size": 63781376,
+        "sha256": "1bff5e331a31dbda798fe1e93af460f826c399fa97293633a82a01c66b37df35"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "legacy": {
+   "assets": {
+    "map": {
+     "version": 1,
+     "size": 9128448,
+     "sha256": "08a20917967acd1ed7d0f89b7c2b3acedf0f35fa196c8359bbecf7926f3f8216",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/legacy-map.rpf",
+       "size": 9128448,
+       "sha256": "08a20917967acd1ed7d0f89b7c2b3acedf0f35fa196c8359bbecf7926f3f8216"
+      }
+     ]
+    },
+    "night": {
+     "version": 1,
+     "size": 189440,
+     "sha256": "a617b47fedabbfa3ee9d0f793e02298c771dbbf64594070bda040aedcf52658e",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/legacy-night.rpf",
+       "size": 189440,
+       "sha256": "a617b47fedabbfa3ee9d0f793e02298c771dbbf64594070bda040aedcf52658e"
+      }
+     ]
+    },
+    "radar": {
+     "version": 1,
+     "size": 5600768,
+     "sha256": "d9c0c5b42fb765532f27a0e4ac6f5f900bac949d97bd4aec21406ca339c75337",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/legacy-radar.rpf",
+       "size": 5600768,
+       "sha256": "d9c0c5b42fb765532f27a0e4ac6f5f900bac949d97bd4aec21406ca339c75337"
+      }
+     ]
+    },
+    "smoke": {
+     "version": 1,
+     "size": 3584,
+     "sha256": "596a337baadca9c2cd7be754fe0dcc12127baddd93ef5a371ce820507263a05f",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/legacy-smoke.rpf",
+       "size": 3584,
+       "sha256": "596a337baadca9c2cd7be754fe0dcc12127baddd93ef5a371ce820507263a05f"
+      }
+     ]
+    },
+    "tracers": {
+     "version": 1,
+     "size": 138752,
+     "sha256": "36f9403e1d1c99b5aa6402fc310d2be95bac2b2be6cc88995517115cd9619be5",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/legacy-tracers.rpf",
+       "size": 138752,
+       "sha256": "36f9403e1d1c99b5aa6402fc310d2be95bac2b2be6cc88995517115cd9619be5"
+      }
+     ]
+    },
+    "weapon_skins": {
+     "version": 1,
+     "size": 112957952,
+     "sha256": "a282add7d4993423acc45cded3edc48659aacf2289c684d57a4b2b98ef0a7bc9",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/legacy-weapon_skins.rpf",
+       "size": 112957952,
+       "sha256": "a282add7d4993423acc45cded3edc48659aacf2289c684d57a4b2b98ef0a7bc9"
+      }
+     ]
+    },
+    "weapon_sounds": {
+     "version": 1,
+     "size": 22273536,
+     "sha256": "9b2ec202267c32d14c7e5ac58e1e9331149967c4dd3ebd62b4f115532fe6dcff",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/legacy-weapon_sounds.rpf",
+       "size": 22273536,
+       "sha256": "9b2ec202267c32d14c7e5ac58e1e9331149967c4dd3ebd62b4f115532fe6dcff"
+      }
+     ]
+    }
+   }
+  }
+ }
+}
