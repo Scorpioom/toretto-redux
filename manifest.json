@@ -106,14 +106,14 @@
      ]
     },
     "gun_themes": {
-     "version": 1,
-     "size": 12877824,
-     "sha256": "64194fe6d3c859f3aec05968c74cd3e388280210cbf27db2d690329b0d1ca495",
+     "version": 2,
+     "size": 38173184,
+     "sha256": "dfb22e7418461ffdd6a121b2283cf00f9734ce202296b16c02cfd06e463dd517",
      "parts": [
       {
-       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-2221/enhanced-gun_themes.rpf",
-       "size": 12877824,
-       "sha256": "64194fe6d3c859f3aec05968c74cd3e388280210cbf27db2d690329b0d1ca495"
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-2253/enhanced-gun_themes.rpf",
+       "size": 38173184,
+       "sha256": "dfb22e7418461ffdd6a121b2283cf00f9734ce202296b16c02cfd06e463dd517"
       }
      ]
     }
@@ -268,14 +268,14 @@
      ]
     },
     "gun_themes": {
-     "version": 1,
-     "size": 12882432,
-     "sha256": "523f502761beff655f4796ce8b721e96c3942a08e0e900617226e6a7ad5c6ef8",
+     "version": 2,
+     "size": 38189056,
+     "sha256": "2b84b55c6946a8f3450efc3ef372d1bc1fbd4f02d239310d555c19097c0deefc",
      "parts": [
       {
-       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-2221/legacy-gun_themes.rpf",
-       "size": 12882432,
-       "sha256": "523f502761beff655f4796ce8b721e96c3942a08e0e900617226e6a7ad5c6ef8"
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-2253/legacy-gun_themes.rpf",
+       "size": 38189056,
+       "sha256": "2b84b55c6946a8f3450efc3ef372d1bc1fbd4f02d239310d555c19097c0deefc"
       }
      ]
     }
