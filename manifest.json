@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.14",
-  "notes": "**Toretto Redux 1.0.14**\n\n- Ганпак: 3 стилі — Чорний + золото, Чорний + червоний, Червоний (без логотипу) / ганпак: 3 стиля, без логотипа.\n- Трасер Heavy Sniper товщий і яскравіший / трассер Heavy Sniper толще и ярче.\n",
-  "size": 127467888,
-  "sha256": "32ea952f0af3cf3fccc3213ec099294ba5cfae39752e8deaa1a98729bec2cceb",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.14/Toretto-Redux-Setup.exe"
+  "version": "1.0.15",
+  "notes": "**Toretto Redux 1.0.15**\n\n- Звичайний трасер трохи товщий / обычный трассер немного толще.\n",
+  "size": 127479456,
+  "sha256": "42f37fe5c57d9ad9cc1a9f6464f1001d54aaff51e0a465b9869e001487d245a5",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.15/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
