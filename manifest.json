@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.8",
-  "notes": "**Toretto Redux 1.0.8**\n\n- Окремий колір трасерів для Heavy Sniper (і Mk2) / отдельный цвет трассеров для Heavy Sniper (и Mk2).\n- Колір трасерів тепер задається напряму в частинці — точніші кольори / цвет трассеров задаётся напрямую в частице — точнее цвета.\n",
-  "size": 127617581,
-  "sha256": "549357bd1275887e1c644821a1ce53f9a1b2fd1e39ea63526734a8c86bfaed37",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.8/Toretto-Redux-Setup.exe"
+  "version": "1.0.9",
+  "notes": "**Toretto Redux 1.0.9**\n\n- Трасер Heavy Sniper знову видно (ефект малювався в іншому шарі) / трассер Heavy Sniper снова виден.\n- Кольорові трасери насиченіші, не йдуть у білий / цветные трассеры насыщеннее, не уходят в белый.\n- Стиль смуг «Ключі» перейменовано на «Кастом» / стиль «Ключи» переименован в «Кастом».\n",
+  "size": 127620697,
+  "sha256": "6d26b4344e520a819dd2b71b5fd9137205d568b94b6e0af602690ab45c187006",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.9/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
