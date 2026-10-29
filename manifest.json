@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.15",
-  "notes": "**Toretto Redux 1.0.15**\n\n- Звичайний трасер трохи товщий / обычный трассер немного толще.\n",
-  "size": 127479456,
-  "sha256": "42f37fe5c57d9ad9cc1a9f6464f1001d54aaff51e0a465b9869e001487d245a5",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.15/Toretto-Redux-Setup.exe"
+  "version": "1.0.16",
+  "notes": "**Toretto Redux 1.0.16**\n\n- Стилі скінів на всю вогнепальну зброю (оригінальну та редуксу) / стили скинов на всё огнестрельное оружие.\n- Heavy Sniper у кожному наборі свого кольору: золото → червоний, червона окантовка → золотий, червоний → жовтий.\n",
+  "size": 127471820,
+  "sha256": "60d89d3cc7a858ea4a9f4a0752c1eaf656acf5ad3f3910e0d34e422b66a561ac",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.16/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
