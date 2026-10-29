@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.0",
-  "notes": "**Toretto Redux 1.0.0** — перша версія / первая версия\n\n- Редукс збирається з твоїх оригінальних файлів гри; оригінали зберігаються, видалення — в один клік.\n- GTA V Enhanced і Legacy: програма сама визначає версію гри.\n- Функції вмикаються окремо: карта, радар і логотип TORETTO, трасери, скіни та звуки зброї, світла ніч, без туману, без дощу, тихий вітер, обʼємний дим, осінь (Enhanced).\n- Оновлення програми та частин редуксу з повідомленнями.\n- Три стилі оформлення, українська та російська мови.\n",
-  "size": 127588520,
-  "sha256": "25f86dbfdde9085a2d2b1063433c22be9fe6ea799f29c1b9a5a1acc7050dfae8",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.0/Toretto-Redux-Setup.exe"
+  "version": "1.0.1",
+  "notes": "**Toretto Redux 1.0.1**\n\n- Новий опис функції «Логотип TORETTO на радарі» / новое описание функции «Логотип TORETTO на радаре».\n- Перемикач Enhanced / Legacy у боковому меню, якщо встановлено обидві гри.\n",
+  "size": 127651179,
+  "sha256": "f7de736f93c6a7dd87ab22a871501186219db83cad753ab192593fd7356f2e64",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.1/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
