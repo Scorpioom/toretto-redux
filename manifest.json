@@ -70,14 +70,14 @@
      ]
     },
     "tracers": {
-     "version": 5,
+     "version": 6,
      "size": 1456128,
-     "sha256": "68c950c87db758b17bf7ad2e12829f44aad85923661cdcc0dee6244091f47f1d",
+     "sha256": "5bcaa074c3e0edac04fc7e8a985742b578f728469f8863eb46b635dfbc43b7a1",
      "parts": [
       {
-       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1945/enhanced-tracers.rpf",
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-2308/enhanced-tracers.rpf",
        "size": 1456128,
-       "sha256": "68c950c87db758b17bf7ad2e12829f44aad85923661cdcc0dee6244091f47f1d"
+       "sha256": "5bcaa074c3e0edac04fc7e8a985742b578f728469f8863eb46b635dfbc43b7a1"
       }
      ]
     },
@@ -232,14 +232,14 @@
      ]
     },
     "tracers": {
-     "version": 5,
+     "version": 6,
      "size": 1456128,
-     "sha256": "73701fef2c1de243475dc6a7414af17a86583ca995b2ce3dc7fea71622fb2e30",
+     "sha256": "e0972896b8b0e734a97b315d9378045f3e022778f9259ba78017d19d23c1c836",
      "parts": [
       {
-       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1945/legacy-tracers.rpf",
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-2308/legacy-tracers.rpf",
        "size": 1456128,
-       "sha256": "73701fef2c1de243475dc6a7414af17a86583ca995b2ce3dc7fea71622fb2e30"
+       "sha256": "e0972896b8b0e734a97b315d9378045f3e022778f9259ba78017d19d23c1c836"
       }
      ]
     },
