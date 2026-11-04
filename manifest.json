@@ -22,14 +22,14 @@
      ]
     },
     "map": {
-     "version": 1,
-     "size": 8708608,
-     "sha256": "1c237d568c3d85de65c69f6819f03eb7edbdbef4c1711375ee8a690953eb0693",
+     "version": 2,
+     "size": 30599168,
+     "sha256": "9c54b038a31827212828e692e481edfd8db717063f9ff4a439d2349b71437848",
      "parts": [
       {
-       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261029-1439/enhanced-map.rpf",
-       "size": 8708608,
-       "sha256": "1c237d568c3d85de65c69f6819f03eb7edbdbef4c1711375ee8a690953eb0693"
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261105-0012/enhanced-map.rpf",
+       "size": 30599168,
+       "sha256": "9c54b038a31827212828e692e481edfd8db717063f9ff4a439d2349b71437848"
       }
      ]
     },
