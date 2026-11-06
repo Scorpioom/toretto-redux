@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.20",
-  "notes": "**Toretto Redux 1.0.20**\n\n- Виправлено: на Enhanced карта редуксу не з'являлася на радарі (лише в меню паузи) / исправлено: на Enhanced карта редукса не появлялась на радаре (только в меню паузы). Після оновлення натисніть «Встановити» ще раз / после обновления нажмите «Установить» ещё раз.\n",
-  "size": 127499760,
-  "sha256": "59c046be4f3a63d2bd9e780f4a92ed82ca958dd32ffc86824192d55ab2c870f3",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.20/Toretto-Redux-Setup.exe"
+  "version": "1.0.21",
+  "notes": "**Toretto Redux 1.0.21**\n\n- Виправлено: на деяких ПК завантаження не працювало з помилкою «CERTIFICATE_VERIFY_FAILED» (стара Windows або антивірус перевіряє HTTPS) / исправлено: на некоторых ПК загрузка не работала с ошибкой «CERTIFICATE_VERIFY_FAILED» (старая Windows или антивирус проверяет HTTPS). Тепер програма має власний набір сертифікатів / теперь у программы свой набор сертификатов.\n",
+  "size": 127584776,
+  "sha256": "20a345e4475048cb86009c8b1168bd3eaa596780586c103588148c4cbed1d538",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.21/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
