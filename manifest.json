@@ -116,6 +116,18 @@
        "sha256": "e85792cb6cb7d347a2e999af1c837776dbe73a1e47fce3d61dcba5c025f10ccc"
       }
      ]
+    },
+    "armor": {
+     "version": 1,
+     "size": 26928128,
+     "sha256": "9b0c6bdda16e2d2ed55e6c045b7afd410834664fc292fbe0af7a3d1764674ef8",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261113-1900/enhanced-armor.rpf",
+       "size": 26928128,
+       "sha256": "9b0c6bdda16e2d2ed55e6c045b7afd410834664fc292fbe0af7a3d1764674ef8"
+      }
+     ]
     }
    },
    "packs": {
@@ -276,6 +288,18 @@
        "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261030-0045/legacy-gun_themes.rpf",
        "size": 378917888,
        "sha256": "19b9a180894471c30deed9389270f3815bb5e0c32c7ddefed043dbb9afaab6f5"
+      }
+     ]
+    },
+    "armor": {
+     "version": 1,
+     "size": 27039744,
+     "sha256": "a497684b8d2c7569be9b4e5e49680a337cb456c7ffedb5e3db941fdff85b4d70",
+     "parts": [
+      {
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261113-1900/legacy-armor.rpf",
+       "size": 27039744,
+       "sha256": "a497684b8d2c7569be9b4e5e49680a337cb456c7ffedb5e3db941fdff85b4d70"
       }
      ]
     }
