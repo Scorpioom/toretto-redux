@@ -1,10 +1,10 @@
 {
  "app": {
-  "version": "1.0.27",
-  "notes": "**Toretto Redux 1.0.27**\n\n- Carbine Rifle MK II тепер із глушником і коліматорним прицілом / теперь с глушителем и коллиматорным прицелом.\n- Золотий Carbine Rifle MK II з сервера без білих смуг за будь-якої теми ганпака / золотой Carbine Rifle MK II с сервера без белых полос при любой теме ганпака.\n",
-  "size": 127662562,
-  "sha256": "c8fc2692ace08543577b5c5023c4262d3213f0a866fcb77c57ebf44d873be9a4",
-  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.27/Toretto-Redux-Setup.exe"
+  "version": "1.0.28",
+  "notes": "**Toretto Redux 1.0.28**\n\n- Виправлено «CERTIFICATE_VERIFY_FAILED» на деяких компʼютерах: програма перевіряє зʼєднання з GitHub так само, як Windows і браузер / исправлено «CERTIFICATE_VERIFY_FAILED» на некоторых компьютерах: программа проверяет соединение с GitHub так же, как Windows и браузер.\n- Зрозуміле повідомлення, якщо зʼєднання не вдалося: неправильні дата й час або антивірус / VPN / понятное сообщение, если соединение не удалось: неправильные дата и время или антивирус / VPN.\n",
+  "size": 128840903,
+  "sha256": "c12a3f1ceef7b634d7f01d0f2e31b3ce9bae8c0db0d05546ab3f5dd50f1e76f5",
+  "url": "https://github.com/Scorpioom/toretto-redux/releases/download/app-1.0.28/Toretto-Redux-Setup.exe"
  },
  "editions": {
   "enhanced": {
