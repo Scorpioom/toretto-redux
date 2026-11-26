@@ -22,14 +22,14 @@
      ]
     },
     "map": {
-     "version": 4,
-     "size": 127128064,
-     "sha256": "4390daf8d16e924b328939caaefdf875aab0206fc5c6a714858b80fd2b5cd999",
+     "version": 5,
+     "size": 127119360,
+     "sha256": "973e33ac3dc22020abf84080412490f6b09c2ba8fde7f90470ce27e32d591727",
      "parts": [
       {
-       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261125-2230/enhanced-map.rpf",
-       "size": 127128064,
-       "sha256": "4390daf8d16e924b328939caaefdf875aab0206fc5c6a714858b80fd2b5cd999"
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261126-1806/enhanced-map.rpf",
+       "size": 127119360,
+       "sha256": "973e33ac3dc22020abf84080412490f6b09c2ba8fde7f90470ce27e32d591727"
       }
      ]
     },
@@ -352,14 +352,14 @@
   "legacy": {
    "assets": {
     "map": {
-     "version": 4,
-     "size": 127127040,
-     "sha256": "9344ec29f8e522cba85010677fc6f80a93cc9320e09da4a71cea1baf5c0632a5",
+     "version": 5,
+     "size": 67574784,
+     "sha256": "4cce85e0de63c5dffaa171f3b35917a5b2dfd0a8301fab85a31bda71b3e69236",
      "parts": [
       {
-       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261125-2230/legacy-map.rpf",
-       "size": 127127040,
-       "sha256": "9344ec29f8e522cba85010677fc6f80a93cc9320e09da4a71cea1baf5c0632a5"
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261126-1806/legacy-map.rpf",
+       "size": 67574784,
+       "sha256": "4cce85e0de63c5dffaa171f3b35917a5b2dfd0a8301fab85a31bda71b3e69236"
       }
      ]
     },
@@ -616,14 +616,14 @@
      ]
     },
     "map_ng": {
-     "version": 1,
-     "size": 129661440,
-     "sha256": "b7b31b56dfc6dd49d99432a7f94434a4d858943e69095c57ae4e1f283c093bc2",
+     "version": 2,
+     "size": 68429312,
+     "sha256": "45b6d796d80cb23c3f68b7a7c933e3ce802017cdd149b3b789a705393e283396",
      "parts": [
       {
-       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261125-2230/legacy-map_ng.rpf",
-       "size": 129661440,
-       "sha256": "b7b31b56dfc6dd49d99432a7f94434a4d858943e69095c57ae4e1f283c093bc2"
+       "url": "https://github.com/Scorpioom/toretto-redux/releases/download/data-20261126-1806/legacy-map_ng.rpf",
+       "size": 68429312,
+       "sha256": "45b6d796d80cb23c3f68b7a7c933e3ce802017cdd149b3b789a705393e283396"
       }
      ]
     }
